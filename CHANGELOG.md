@@ -1,3 +1,10 @@
+# 1.0.7 / 2015-06-21
+
+## Enhancements
+
+* Added a service notifier. Added check to create /etc/exabgp if it's missing. 
+  Do not change the last digit to 0 for unicast addresses
+
 # 1.0.6 / 2015-06-21
 
 ## Enhancements
