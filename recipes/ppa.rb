@@ -18,8 +18,6 @@
 ##
 #
 #
-include_recipe 'apt'
-
 apt_repository 'exabgp' do
   uri 'http://ppa.launchpad.net/sbadia/exabgp/ubuntu'
   distribution node['lsb']['codename']
@@ -37,6 +35,6 @@ package 'exabgp' do
   action :upgrade
 end
 
-node.set[:exabgp][:bin_path] = '/usr/sbin/exabgp'
+node.set['exabgp']['bin_path'] = '/usr/sbin/exabgp'
 
 include_recipe 'exabgp::default'

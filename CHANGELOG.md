@@ -1,3 +1,9 @@
+# 1.0.6 / 2015-06-21
+
+## Enhancements
+
+* Fixed cookbook per food critic 
+
 # 1.0.5 / 2015-06-21
 
 ## Enhancements
