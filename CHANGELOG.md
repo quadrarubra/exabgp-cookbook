@@ -1,3 +1,10 @@
+# 1.0.4 / 2015-06-21
+
+## Enhancements
+
+* Added a new installtion options - ppa. Separated install into source, pip and ppa.
+  Fixed cookbook per rubocop
+
 # 1.0.3 / 2015-06-21
 
 ## Enhancements
