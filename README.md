@@ -11,6 +11,7 @@ Installs and configures [ExaBGP](https://github.com/Exa-Networks/exabgp), the sw
 ## Dependencies
 
 * python
+* apt
 * runit
 * git (if installing latest or from source)
 
@@ -21,8 +22,11 @@ Installs and configures [ExaBGP](https://github.com/Exa-Networks/exabgp), the sw
 * Author:: [Aaron Kalin](https://github.com/martinisoft)
 * Author:: [Jacobo Garcia](https://github.com/therobot)
 * Author:: [Joseph Caudle](https://github.com/jcaudle)
+* Author:: [Roman Lenskij](https://github.com/rll3)
 
 Copyright:: 2013-2015 Aetrion, LLC
+
+Copyright:: 2015 Quadra rubra, UAB
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
