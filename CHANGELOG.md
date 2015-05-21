@@ -1,3 +1,9 @@
+# 1.0.3 / 2015-06-21
+
+## Enhancements
+
+* Added in a new attributes to allow changing the network prefixes.
+
 # 1.0.2 / 2015-02-21
 
 ## Enhancements
